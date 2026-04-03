@@ -20,3 +20,6 @@ Run the batch file ***start_jupyter.bat***:
   - It will automatically open the browser interface.
 
 Open the notebook ***analysis.ipynb*** from the Jupyter interface to explore the analysis.
+
+Note: For privacy reasons, all CSV files and datasets in this project have **usernames and personal names anonymized**.  
+All original survey data has been replaced with placeholders like `Username` and `Name`.
