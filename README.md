@@ -1,11 +1,21 @@
-# **Internet-Activity-Pattern**
-A **Data Analyst Project** looking for the pattern of internet activity through a survey and using ***Python, numpy, pandas, matplotlib,*** and ***seaborn*** to organize data, and for a graphic organizer.
+# Internet-Activity-Pattern
 
-This is created through **Jupyter Notebook**.
+A **Data Analysis Project** exploring patterns of internet activity through survey data, using Python libraries **numpy**, **pandas**, **matplotlib**, and **seaborn** for data processing and visualization.
 
-### To Run
-First, make sure that you have the required libraries and Python installed.
-If you don't have the libraries yet, just run this in the terminal:
-***pip install -r requirements.txt***
+This project is built using **Jupyter Notebook**.
 
-Next, click/run the "start_jupyter.bat" as it will open the Jupyter Server to run the Notebook, and it will also redirect you to the Jupyter Notebook through the web, and now you can open the ***"analysis.ipynb"***
+---
+
+## Requirements
+
+Make sure you have **Python 3.10+** installed along with the required libraries. You can install all dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+## How to Run
+Run the batch file ***start_jupyter.bat***:
+  - This will start the Jupyter Notebook server.
+  - It will automatically open the browser interface.
+Open the notebook ***analysis.ipynb*** from the Jupyter interface to explore the analysis.
