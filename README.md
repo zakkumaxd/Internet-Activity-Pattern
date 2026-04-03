@@ -8,4 +8,4 @@ First, make sure that you have the required libraries and Python installed.
 If you don't have the libraries yet, just run this in the terminal:
 ***pip install -r requirements.txt***
 
-Next, click/run the "start_jupyter.bat" as it will open the Jupyter Server to run the Notebook, and it will also redirect you to the Jupyter Notebook through the web, and now you can open the *"analysis.ipynb"*
+Next, click/run the "start_jupyter.bat" as it will open the Jupyter Server to run the Notebook, and it will also redirect you to the Jupyter Notebook through the web, and now you can open the ***"analysis.ipynb"***
