@@ -18,4 +18,5 @@ pip install -r requirements.txt
 Run the batch file ***start_jupyter.bat***:
   - This will start the Jupyter Notebook server.
   - It will automatically open the browser interface.
+
 Open the notebook ***analysis.ipynb*** from the Jupyter interface to explore the analysis.
